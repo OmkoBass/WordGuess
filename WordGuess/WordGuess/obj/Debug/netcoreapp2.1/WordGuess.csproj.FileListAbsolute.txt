@@ -1,0 +1,11 @@
+C:\Git\WordGuess\WordGuess\WordGuess\bin\Debug\netcoreapp2.1\WordGuess.deps.json
+C:\Git\WordGuess\WordGuess\WordGuess\bin\Debug\netcoreapp2.1\WordGuess.runtimeconfig.json
+C:\Git\WordGuess\WordGuess\WordGuess\bin\Debug\netcoreapp2.1\WordGuess.runtimeconfig.dev.json
+C:\Git\WordGuess\WordGuess\WordGuess\bin\Debug\netcoreapp2.1\WordGuess.dll
+C:\Git\WordGuess\WordGuess\WordGuess\bin\Debug\netcoreapp2.1\WordGuess.pdb
+C:\Git\WordGuess\WordGuess\WordGuess\obj\Debug\netcoreapp2.1\WordGuess.csprojAssemblyReference.cache
+C:\Git\WordGuess\WordGuess\WordGuess\obj\Debug\netcoreapp2.1\WordGuess.csproj.CoreCompileInputs.cache
+C:\Git\WordGuess\WordGuess\WordGuess\obj\Debug\netcoreapp2.1\WordGuess.AssemblyInfoInputs.cache
+C:\Git\WordGuess\WordGuess\WordGuess\obj\Debug\netcoreapp2.1\WordGuess.AssemblyInfo.cs
+C:\Git\WordGuess\WordGuess\WordGuess\obj\Debug\netcoreapp2.1\WordGuess.dll
+C:\Git\WordGuess\WordGuess\WordGuess\obj\Debug\netcoreapp2.1\WordGuess.pdb
